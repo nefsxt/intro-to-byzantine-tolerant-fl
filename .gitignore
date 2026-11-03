@@ -1,0 +1,13 @@
+# Dataset (shipsnet.json is ~340 MB, over GitHub's 100 MB limit) - downloaded by the notebook
+data/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pt
+
+# OS / local files
+desktop.ini
+Thumbs.db
+.DS_Store
+ship_spoof.txt
