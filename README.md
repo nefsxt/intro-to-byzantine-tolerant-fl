@@ -1,4 +1,4 @@
-# Byzantine Fault Tolerance in Federated Learning
+# Introduction to Byzantine Fault Tolerance in Federated Learning
 
 This notebook is an introduction to Byzantine fault tolerance in Federated Learning (FL), built around a simplified maritime scenario: several coast guards and maritime agencies want to train a shared ship detector on satellite imagery they cannot pool, so they federate. Before getting to Byzantine robustness, the notebook covers the key theoretical aspects of FL: the federated objective, the FedAvg algorithm, and IID vs non-IID clients, from both an experimental and an optimization (client drift) perspective.
 
